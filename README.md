@@ -15,4 +15,4 @@ Using the formula (i * 3 + i / 3 + j) % 9 + 1, the program generates a valid bas
 Files:
 SudokuGenerator.java
 README.md
-DesignDocument.docx
+Adrian Wu - Project_ Sudoku Puzzle Generator [50 points].docx
